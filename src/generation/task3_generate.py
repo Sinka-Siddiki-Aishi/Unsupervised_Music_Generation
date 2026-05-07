@@ -16,7 +16,7 @@ OUTPUT_DIR = "outputs/generated_midis"
 NUM_SAMPLES = 10
 SEQ_LEN = 256
 INPUT_SIZE = 128
-THRESHOLD = 0.3
+THRESHOLD = 0.15
 
 
 def piano_roll_to_midi(piano_roll, output_path, fs=16):

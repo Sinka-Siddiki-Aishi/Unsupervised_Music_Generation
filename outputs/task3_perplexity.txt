@@ -1,4 +1,4 @@
 Task 3 Transformer Perplexity Report
 ------------------------------------
-Final test loss: 0.023528
-Final perplexity: 1.0238
+Final test loss: 0.022835
+Final perplexity: 1.0231
