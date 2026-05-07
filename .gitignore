@@ -1,0 +1,10 @@
+
+data/
+*.mid
+*.midi
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
+*.pt
+*.pth
+*.h5
