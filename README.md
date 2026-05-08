@@ -43,3 +43,5 @@ After preprocessing, the final piano-roll dataset had the shape:
 This means the dataset contains 62,084 processed music sequences. Each sequence has 128 time steps, and each time step contains 128 MIDI pitch values.
 
 
+Midi Files
+https://drive.google.com/file/d/1393MdFLBmn5DHZZjYTmKUM-yr9Qq2TXf/view?usp=sharing
